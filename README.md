@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+#### I am a computer engineer student
+#### I love to code and create solutions that solve real problems
+#### I am a fullstack dev
+#### Nodejs,Javascript, Php, MYSQL, HTML, CSS, React 
+
 <!--
 **richard-gusmao/richard-gusmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
